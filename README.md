@@ -73,4 +73,4 @@ The code, data and internal figures belong to my employer and are confidential, 
 
 ---
 
-📫 acc.nadashaban@gmail.com · [LinkedIn](https://www.linkedin.com/in/nada-shaban-048297206)
+🌐 [nadashaaban.com](https://nadashaaban.com) · 📫 acc.nadashaban@gmail.com · [LinkedIn](https://www.linkedin.com/in/nada-shaban-048297206)
