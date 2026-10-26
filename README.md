@@ -7,6 +7,8 @@ The code, data and internal figures belong to my employer and are confidential, 
 ---
 
 ## 1. AI Trading Assistant
+![AI Trading Assistant flow](diagrams/ai-trading-assistant.svg)
+
 **Problem:** Members asked many repeat questions about market data that already lived in a database.
 **My role:** Developer on a small team building a bilingual (Arabic + English) assistant. Worked across the whole project: design, prompts, tools, testing and integration.
 **Approach:**
@@ -17,6 +19,8 @@ The code, data and internal figures belong to my employer and are confidential, 
 **Tools:** Python, LangChain / LangGraph, Gemini, PostgreSQL, FastAPI, MLflow, pytest
 
 ## 2. Customer-facing AI chatbot: training data & pre-launch evaluation
+![Chatbot evaluation flow](diagrams/chatbot-evaluation.svg)
+
 **Problem:** The company was about to launch an AI support bot and needed proof that it was ready.
 **My role:** Built the test data and ran the evaluation.
 **Approach:**
@@ -27,6 +31,8 @@ The code, data and internal figures belong to my employer and are confidential, 
 **Tools:** Python, Excel, prompt writing, LLM evaluation
 
 ## 3. Market data platform: QA, front end & data (team project)
+![Market data platform](diagrams/market-data-platform.svg)
+
 **Problem:** A bilingual web platform for screening and filtering market data.
 **My role:** Team contributor across testing, front end and back-end data.
 **Approach:**
@@ -38,6 +44,8 @@ The code, data and internal figures belong to my employer and are confidential, 
 **Tools:** AI-assisted development (Claude Code, Cursor), JavaScript / front end, REST APIs, SQL, manual and exploratory QA
 
 ## 4. Support Analytics Dashboard
+![Support analytics flow](diagrams/support-analytics.svg)
+
 **Problem:** The support team had no clear view of response speed or of how support affected upgrades.
 **My role:** Built the tool end to end. The team uses it internally.
 **Approach:**
@@ -47,6 +55,8 @@ The code, data and internal figures belong to my employer and are confidential, 
 **Tools:** Python, FastAPI, SQLite
 
 ## 5. Customer churn diagnosis & win-back segments
+![Churn and win-back flow](diagrams/churn-winback.svg)
+
 **Problem:** Subscribers were cancelling, and the company needed to know why and whom to win back first.
 **My role:** Analyst.
 **Approach:**
@@ -64,6 +74,8 @@ The code, data and internal figures belong to my employer and are confidential, 
 **Tools:** Python, pandas, REST / WebSocket APIs, LLMs
 
 ## 7. Business automation
+![Automation workflows](diagrams/automation.svg)
+
 **Approach:**
 - n8n and Zapier workflows route support messages to Zendesk tickets.
 - Others send cancellation reminders and failed-payment emails, handle onboarding, and produce a daily market brief.
