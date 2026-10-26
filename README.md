@@ -1,8 +1,8 @@
 # Work Case Studies
 
-Selected projects from my role as **Data Analyst & AI Automation Specialist** (Feb 2025 – Oct 2026).
+Selected projects from my current role as **Data Analyst & AI Automation Specialist** (since Feb 2026).
 
-The code, data and internal figures belong to my former employer and are confidential, so this repo contains **write-ups only**: the problem, my role, the approach and the tools. My public code is in my other repositories.
+The code, data and internal figures belong to my employer and are confidential, so this repo contains **write-ups only**: the problem, my role, the approach and the tools. My public code is in my other repositories.
 
 ---
 
