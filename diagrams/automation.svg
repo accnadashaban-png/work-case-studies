@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" font-family="Inter, 'Segoe UI', Arial, sans-serif" role="img" aria-label="Business automation workflows">
+<title>Business automation workflows</title>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1F5A4F"/></marker></defs>
+<rect width="900" height="200" rx="16" fill="#F7F4EE"/>
+<text x="24" y="34" font-size="13" font-weight="700" letter-spacing="1.2" fill="#1F5A4F">BUSINESS AUTOMATION WORKFLOWS</text>
+<rect x="24" y="70" width="174" height="84" rx="12" fill="#FFFFFF" stroke="#D9D2C5" stroke-width="1.5"/>
+<text x="111.0" y="109.0" text-anchor="middle" font-size="14" font-weight="600" fill="#1E2A28">Trigger</text>
+<text x="111.0" y="128.0" text-anchor="middle" font-size="11.5" fill="#5B6763">new message · failed</text>
+<text x="111.0" y="143.0" text-anchor="middle" font-size="11.5" fill="#5B6763">payment · sign-up</text>
+<rect x="250" y="70" width="174" height="84" rx="12" fill="#E4EEE9" stroke="#1F5A4F" stroke-width="1.5"/>
+<text x="337.0" y="109.0" text-anchor="middle" font-size="14" font-weight="600" fill="#1E2A28">n8n / Zapier</text>
+<text x="337.0" y="128.0" text-anchor="middle" font-size="11.5" fill="#5B6763">workflow logic</text>
+<line x1="202" y1="112.0" x2="246" y2="112.0" stroke="#1F5A4F" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="476" y="70" width="174" height="84" rx="12" fill="#FFFFFF" stroke="#D9D2C5" stroke-width="1.5"/>
+<text x="563.0" y="109.0" text-anchor="middle" font-size="14" font-weight="600" fill="#1E2A28">Actions</text>
+<text x="563.0" y="128.0" text-anchor="middle" font-size="11.5" fill="#5B6763">Zendesk ticket · email</text>
+<text x="563.0" y="143.0" text-anchor="middle" font-size="11.5" fill="#5B6763">reminder · onboarding</text>
+<line x1="428" y1="112.0" x2="472" y2="112.0" stroke="#1F5A4F" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="702" y="70" width="174" height="84" rx="12" fill="#FFFFFF" stroke="#D9D2C5" stroke-width="1.5"/>
+<text x="789.0" y="109.0" text-anchor="middle" font-size="14" font-weight="600" fill="#1E2A28">Daily brief</text>
+<text x="789.0" y="128.0" text-anchor="middle" font-size="11.5" fill="#5B6763">market summary</text>
+<text x="789.0" y="143.0" text-anchor="middle" font-size="11.5" fill="#5B6763">to the team</text>
+<line x1="654" y1="112.0" x2="698" y2="112.0" stroke="#1F5A4F" stroke-width="1.8" marker-end="url(#a)"/>
+</svg>

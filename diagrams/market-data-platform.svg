@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="Inter, 'Segoe UI', Arial, sans-serif" role="img" aria-label="Market data platform: my part (team project)">
+<title>Market data platform: my part (team project)</title>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1F5A4F"/></marker></defs>
+<rect width="900" height="300" rx="16" fill="#F7F4EE"/>
+<text x="24" y="34" font-size="13" font-weight="700" letter-spacing="1.2" fill="#1F5A4F">MARKET DATA PLATFORM: MY PART (TEAM PROJECT)</text>
+<rect x="24" y="70" width="196" height="80" rx="12" fill="#FFFFFF" stroke="#D9D2C5" stroke-width="1.5"/>
+<text x="122.0" y="107.0" text-anchor="middle" font-size="14" font-weight="600" fill="#1E2A28">Market data sources</text>
+<text x="122.0" y="126.0" text-anchor="middle" font-size="11.5" fill="#5B6763">prices · sectors · screens</text>
+<rect x="252" y="70" width="196" height="80" rx="12" fill="#FFFFFF" stroke="#D9D2C5" stroke-width="1.5"/>
+<text x="350.0" y="107.0" text-anchor="middle" font-size="14" font-weight="600" fill="#1E2A28">Back end</text>
+<text x="350.0" y="126.0" text-anchor="middle" font-size="11.5" fill="#5B6763">APIs + database</text>
+<line x1="224" y1="110.0" x2="248" y2="110.0" stroke="#1F5A4F" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="480" y="70" width="196" height="80" rx="12" fill="#FFFFFF" stroke="#D9D2C5" stroke-width="1.5"/>
+<text x="578.0" y="107.0" text-anchor="middle" font-size="14" font-weight="600" fill="#1E2A28">Dashboard pages</text>
+<text x="578.0" y="126.0" text-anchor="middle" font-size="11.5" fill="#5B6763">Arabic RTL + English</text>
+<line x1="452" y1="110.0" x2="476" y2="110.0" stroke="#1F5A4F" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="708" y="70" width="168" height="80" rx="12" fill="#FFFFFF" stroke="#D9D2C5" stroke-width="1.5"/>
+<text x="792.0" y="107.0" text-anchor="middle" font-size="14" font-weight="600" fill="#1E2A28">AI assistant</text>
+<text x="792.0" y="126.0" text-anchor="middle" font-size="11.5" fill="#5B6763">integrated into</text>
+<text x="792.0" y="141.0" text-anchor="middle" font-size="11.5" fill="#5B6763">the platform</text>
+<line x1="680" y1="110" x2="704" y2="110" stroke="#1F5A4F" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="252" y="196" width="424" height="76" rx="12" fill="#E4EEE9" stroke="#1F5A4F" stroke-width="1.5"/>
+<text x="464.0" y="231.0" text-anchor="middle" font-size="14" font-weight="600" fill="#1E2A28">My focus: testing &amp; data validation</text>
+<text x="464.0" y="250.0" text-anchor="middle" font-size="11.5" fill="#5B6763">check every page's numbers · report and track issues</text>
+<text x="464.0" y="265.0" text-anchor="middle" font-size="11.5" fill="#5B6763">build some front-end pages · fix back-end data</text>
+<line x1="400" y1="194" x2="350" y2="154" stroke="#1F5A4F" stroke-width="1.8" stroke-dasharray="5 4" marker-end="url(#a)"/>
+<line x1="560" y1="194" x2="578" y2="154" stroke="#1F5A4F" stroke-width="1.8" stroke-dasharray="5 4" marker-end="url(#a)"/>
+</svg>
