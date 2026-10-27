@@ -18,6 +18,8 @@ The code, data and internal figures belong to my employer and are confidential, 
 
 **Tools:** Python, LangChain / LangGraph, Gemini, PostgreSQL, FastAPI, MLflow, pytest
 
+➡️ **Public code version:** [bilingual-market-assistant](https://github.com/accnadashaban-png/bilingual-market-assistant)
+
 ## 2. Customer-facing AI chatbot: training data & pre-launch evaluation
 ![Chatbot evaluation flow](diagrams/chatbot-evaluation.svg)
 
@@ -29,6 +31,8 @@ The code, data and internal figures belong to my employer and are confidential, 
 - Found a language-mismatch issue (the bot sometimes answered in the wrong language) and wrote the go / no-go recommendation for management.
 
 **Tools:** Python, Excel, prompt writing, LLM evaluation
+
+➡️ **Public code version:** [arabic-chatbot-eval](https://github.com/accnadashaban-png/arabic-chatbot-eval)
 
 ## 3. Market data platform: QA, front end & data (team project)
 ![Market data platform](diagrams/market-data-platform.svg)
@@ -53,6 +57,8 @@ The code, data and internal figures belong to my employer and are confidential, 
 - Presents the results in a simple dashboard.
 
 **Tools:** Python, FastAPI, SQLite
+
+➡️ **Public code version:** [customer-support-analytics](https://github.com/accnadashaban-png/customer-support-analytics)
 
 ## 5. Customer churn diagnosis & win-back segments
 ![Churn and win-back flow](diagrams/churn-winback.svg)
