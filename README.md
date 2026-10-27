@@ -89,6 +89,26 @@ The code, data and internal figures belong to my employer and are confidential, 
 
 **Tools:** n8n, Zapier, Zendesk, GA4
 
+## 8. Dashboard QA review (bilingual market dashboard)
+**Problem:** A bilingual (Arabic + English) market-data dashboard needed a careful check before release.
+**My role:** Tester. Ran an exploratory review and wrote the findings report.
+**Approach:**
+- Tested every dashboard section in both languages and checked displayed numbers against the API.
+- Documented 19 issues with annotated screenshots, grouped into bugs, content, Arabic wording and usability.
+- Examples: counters showing loaded items instead of real totals, plus/minus signs flipping in right-to-left mode, English names breaking inside Arabic text, hard-coded strings in translation files, duplicated content and Arabic spelling fixes.
+
+**Tools:** Manual and exploratory QA, browser dev tools, API checks, RTL / i18n testing
+
+## 9. Community content backup tool
+**Problem:** The team needed an offline copy of course and report content published on its community platform.
+**My role:** Built the tool.
+**Approach:**
+- A Python script reads every post in a space through the platform's admin API (read-only; it never edits or deletes).
+- Downloads videos, PDFs and documents and names each file after its post title, numbering multi-part videos so they stay together.
+- Skips files that already exist, so re-runs are cheap and safe; can render text-only posts to PDF; paces requests to respect the API.
+
+**Tools:** Python, REST API, requests, Playwright
+
 ---
 
 🌐 [nadashaaban.com](https://nadashaaban.com) · 📫 acc.nadashaban@gmail.com · [LinkedIn](https://www.linkedin.com/in/nada-shaban-048297206)
