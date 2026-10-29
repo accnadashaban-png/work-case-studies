@@ -45,13 +45,13 @@ The code, data and internal figures belong to my employer and are confidential, 
 - Fixed and corrected data on the back end.
 - Integrated the AI assistant into the platform.
 
-**Tools:** AI-assisted development (Claude Code, Cursor), JavaScript / front end, REST APIs, SQL, manual and exploratory QA
+**Tools:** AI-assisted development, JavaScript / front end, REST APIs, SQL, manual and exploratory QA
 
 ## 4. Support Analytics Dashboard
 ![Support analytics flow](diagrams/support-analytics.svg)
 
 **Problem:** The support team had no clear view of response speed or of how support affected upgrades.
-**My role:** Built the tool end to end. The team uses it internally.
+**My role:** Built the tool; the team uses it internally.
 **Approach:**
 - Collects support conversations and computes first response time, reply rate and upgrades after support.
 - Presents the results in a simple dashboard.
